@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.xcworkspace
+!*.xcworkspace
+*.xccheckout
+*.xcscmblueprint
+*.xcscheme
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+*.xcconfig
+
+# Carthage
+Carthage/Build/
+
+# IDE-specific
+.idea/
+.vscode/
